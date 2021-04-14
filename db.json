@@ -1,5 +1,5 @@
 {
-  "data": [
+  "Ajax": [
       {
           "id": 0,
           "chash": "jlv4qh2vp7m7um0pqces8rbm4d",
@@ -505,5 +505,21 @@
           "chash": "ap2r4jq66b4lkgt9s1mqkvsrbb",
           "phash": "hp0m3hpk49vsgqbbv7qkluajde"
       }
-  ]
+  ],
+  "dummy": [
+    {
+        "id": 0,
+        "chash": "jlv4qh2vp7m7um0pqces8rbm4d",
+        "phash": "0"
+    },
+    {
+        "id": 1,
+        "chash": "tt835ktaqaqchrfrcenar39m11",
+        "phash": "jlv4qh2vp7m7um0pqces8rbm4d"
+    },
+    {
+        "id": 2,
+        "chash": "om1it6lgjauhccjn4bvtlr6gn9",
+        "phash": "tt835ktaqaqchrfrcenar39m11"
+    }]
 }
